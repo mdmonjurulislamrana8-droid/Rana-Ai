@@ -1,5 +1,5 @@
 
-name: Rana AI Android Build
+name: Rana AI Android 
 
 on:
   workflow_dispatch:
